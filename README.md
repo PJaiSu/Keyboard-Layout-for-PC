@@ -5,7 +5,6 @@
 <br/>
 - [လၢႆးသႂ်ႉလွၵ်းမိုဝ်းတႆး တႃႇၶွမ်း Mac](https://youtu.be/Q4haAu8JeoA)
 - [လၢႆးသႂ်ႉလွၵ်းမိုဝ်းတႆး တႃႇၶွမ်း Windows-11](https://youtu.be/GYVSket37Cw)
-- [ၶဝ်ႈတူၺ်းဝႅပ်ႉသၢႆႉ PJaiSu](https://pjaisu.github.io)
 
 ![preview my website light mode](/Keyboard%20Layout%20JPG/SIIT.jpg)
 ![preview my website light mode](/Keyboard%20Layout%20JPG/NamKhone.jpg)
