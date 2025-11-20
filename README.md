@@ -8,3 +8,4 @@
 - [ၶဝ်ႈတူၺ်းဝႅပ်ႉသၢႆႉ PJaiSu](https://pjaisu.github.io)
 
 
+![preview my website light mode](/NamKhone.jpg)
